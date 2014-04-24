@@ -1,0 +1,39 @@
+.pad{
+		padding-top: 10px;
+		padding-right: 10px;
+	} 
+.page-header1{
+	height: 30px;
+	border-bottom: 1px solid #e7e7e7;
+	margin-bottom: 8px;
+	text-align: center;
+	width: 100%;
+}
+.escondido{
+	height: 10px;
+	width: 100%;
+}
+
+.btn-responsive{
+	width: 46%;
+	margin-left: 2.5%;
+	margin-bottom: 10px;
+}
+
+.barra-busqueda{
+	background-color: #f8f8f8;
+	border:solid 1px #e7e7e7;
+	padding-bottom: 10px;
+}
+
+.btn-responsive1{
+	width: 100%;
+	margin-top: 10px;
+}
+
+#destacado{
+	background-color: #e7e7e7;
+}
+.grilla{
+	border: 1px solid #e7e7e7;
+}
